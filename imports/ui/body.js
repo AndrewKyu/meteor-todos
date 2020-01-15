@@ -6,6 +6,7 @@ import { Tasks } from '../api/tasks.js'
 
 import './task.js'
 import './body.html'
+import './chat/chat.js'
 
 
 Template.body.onCreated(function bodyOnCreated(){
